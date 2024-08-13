@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://188.241.218.199:34011/ghLs2zdZSnFvTT00002814303e5df5603f378db9f47c76579177d576/tracks-v1a1a2/index.m3u8
+##http://tv.cloudcdn.me/live.ts?channelId=80&uid=SIROMETV/AsianTV&deviceMac=00:1A:79:A8:9C:32
+##http://tv.cloudcdn.me/live.ts?channelId=80&uid=SIROMETV/AsianTV&deviceMac=00:1A:79:31:34:13
