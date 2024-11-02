@@ -1,6 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://github.com/mdsirome/LiveTV/raw/main/APPS/JamunaTV.m3u8
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
-##http://4ytksrllvm.gpcdn.net/tv/Jamuna/playlist.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="LINK 1" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL",LINK 1
+http://starshare.live:8080/live/qwer/qwer/421.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="LINK 2" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", LINK 2
+https://ythls-v3.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="LINK 3" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", LINK 3
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=xb8hDcXQ8Bk
