@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://128.0.104.56/live.ts?channelId=217&uid=473&deviceMac=00:1A:79:31:34:13
+http://128.0.104.56/live.ts?channelId=217&uid=473&deviceMac=00:1A:79:31:34:13.m3u8
